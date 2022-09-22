@@ -1,0 +1,4 @@
+$DNA='ATGC';
+$DNA=~tr/A-z/a-z/;
+print "$DNA\n";
+$DNA='atgc';
